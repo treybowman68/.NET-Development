@@ -84,3 +84,4 @@ C:\Users\kentt\OneDrive\Documents\.Net Software Developement\ConnectFour\obj\Deb
 C:\Users\kentt\OneDrive\Documents\.Net Software Developement\ConnectFour\obj\Debug\net10.0\scopedcss\Components\Pages\Board.razor.rz.scp.css
 C:\Users\kentt\OneDrive\Documents\.Net Software Developement\ConnectFour\obj\Debug\net10.0\compressed\8t7ubqbmk6-{0}-847oaqt540-847oaqt540.gz
 C:\Users\kentt\OneDrive\Documents\.Net Software Developement\ConnectFour\obj\Debug\net10.0\compressed\qps0edvuu1-{0}-847oaqt540-847oaqt540.gz
+C:\Users\kentt\OneDrive\Documents\.Net Software Developement\ConnectFour\obj\Debug\net10.0\ConnectFour.sourcelink.json
